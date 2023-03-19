@@ -8,7 +8,6 @@
 
 ## **Latihan 1**
 
-<hr>
 
 ### _Code :_
 
@@ -29,7 +28,6 @@
 
 ## **Latihan 2**
 
-<hr>
 
 ### _Code :_
 
@@ -53,7 +51,6 @@
 
 ## **Latihan 3**
 
-<hr>
 
 ### _Code :_
 
@@ -74,7 +71,6 @@
 
 ## **Latihan 4**
 
-<hr>
 
 ### _Code :_
 
@@ -102,7 +98,6 @@
 
 ## **Latihan 5**
 
-<hr>
 
 ### _Code :_
 
@@ -127,7 +122,6 @@
 
 ## **Latihan 6**
 
-<hr>
 
 ### _Code :_
 
@@ -155,7 +149,6 @@
 
 ## **Latihan 7**
 
-<hr>
 
 ### _Code :_
 
@@ -189,7 +182,6 @@
 
 ## **Latihan 8**
 
-<hr>
 
 ### _Code :_
 
@@ -217,7 +209,6 @@
 
 ## **Latihan 9**
 
-<hr>
 
 ### _Code :_
 
@@ -243,7 +234,6 @@
 
 ## **Latihan 10**
 
-<hr>
 
 ### _Code :_
 
@@ -269,7 +259,6 @@
 
 ## **PERTANYAAN DAN TUGAS**
 
-<hr>
 
 ### _Code :_
 
