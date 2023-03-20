@@ -1,4 +1,4 @@
-# PROJECT PRAKTIKUM 1
+# PROJECT PRAKTIKUM 2 (PHP Dasar)
 
 **_Nama: Muhammad Akbar_** <br/>
 **_Nim : 312110483_** <br/>
